@@ -2,9 +2,6 @@
 <h3 align="center">Developer and CS student from Algeria</h3>
 
 
-- 👨‍💻 I’m currently solving [LeetCode Problems] for fun
-
-
 - 🌱 I’m currently learning **Networking, Cloud, Security and few languages**
 
 - 💬 Ask me about **Vue, NodeJS, Servers, Security or anything intresting!**
@@ -12,10 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/youcefbadaouii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youcefbadaouii" height="30" width="40" /></a>
-<a href="https://fb.com/iyouxef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iyouxef" height="30" width="40" /></a>
-<a href="https://instagram.com/iyouxef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iyouxef" height="30" width="40" /></a>
-<a href="https://discord.com/users/281026023309705218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="281026023309705218" height="35" width="40" /></a>
+<a href="https://discord.com/users/965714627918966845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="965714627918966845" height="35" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools (skills vary):</h3>
