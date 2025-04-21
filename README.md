@@ -7,7 +7,7 @@
 - 💬 Ask me about **Vue, NodeJS, Servers, Security or anything intresting!**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">User Profile</h3>
 <p align="left">
 <a href="https://discord.com/users/965714627918966845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="965714627918966845" height="35" width="40" /></a>
 </p>
