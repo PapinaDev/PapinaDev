@@ -1,16 +1,14 @@
-<h1 align="center">Hi, I'm Youcef 👋</h1>
-<h3 align="center">Hobbyist System Administrator / Developer and CS student from Algeria</h3>
+<h1 align="center">Hi, I'm Papina 👋</h1>
+<h3 align="center">Developer and CS student from Algeria</h3>
 
 
 - 👨‍💻 I’m currently solving [LeetCode Problems] for fun
 
-- 🌐 My personal website at [youcef.io](https://youcef.io)
 
 - 🌱 I’m currently learning **Networking, Cloud, Security and few languages**
 
-- 💬 Ask me about **Vue, NodeJS, Servers, Hosting or anything intresting!**
+- 💬 Ask me about **Vue, NodeJS, Servers, Security or anything intresting!**
 
-- 📫 How to reach me **me@youcef.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
